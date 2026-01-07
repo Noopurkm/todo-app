@@ -17,3 +17,4 @@ A simple command-line To-Do application built in Python.
 - Basic Python input/output
 - Using lists
 - Writing simple logic
+- Mark tasks as completed
