@@ -18,3 +18,6 @@ A simple command-line To-Do application built in Python.
 - Using lists
 - Writing simple logic
 - Mark tasks as completed
+
+- Saves tasks to a file (tasks.json)
+
